@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+My name is Jonathan, currently a Year 2 Computer Engineering Student studying in National University of Singaproe (NUS). 
 <!--
 **kyhjonathan/kyhjonathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
