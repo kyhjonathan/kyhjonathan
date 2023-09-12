@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Jonathan, currently a Year 2 Computer Engineering Student studying in National University of Singapore (NUS). 
-I am looking for an internship!! Willing and competent intern that will have have immediate added value to any company.
+I am looking for an internship! Willing and competent intern that provide immediate added value to any company.
 <!--
 **kyhjonathan/kyhjonathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![kyhjonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyhjonathan)](https://github.com/kyhjonathan/github-readme-stats)
