@@ -1,10 +1,13 @@
 ### Hi there 👋
 
-My name is Jonathan, currently a Computer Engineering Undergradute studying in National University of Singapore (NUS). 
-I am looking for an internship! Willing and competent intern that provide immediate added value to any company.
-Do contact me on Linkedin for my resume!
+😄 My name is Jonathan, currently a Computer Engineering Undergradute studying in National University of Singapore (NUS). 
+I am looking for an internship! 
 
-Programming Languages: C, C++, Python, SQL
+🌱 Willing and competent intern that provide immediate added value to any company.
+
+📫 Do contact me on Linkedin for my resume!
+
+⚡ Programming Languages: C, C++, Python, SQL
 Technologies Used: Jira, Figma, Confluence
 
 <!--
