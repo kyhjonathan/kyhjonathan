@@ -1,7 +1,11 @@
 ### Hi there 👋
 
-My name is Jonathan, currently a Year 2 Computer Engineering Student studying in National University of Singapore (NUS). 
+My name is Jonathan, currently a Computer Engineering Undergradute studying in National University of Singapore (NUS). 
 I am looking for an internship! Willing and competent intern that provide immediate added value to any company.
+Do contact me on Linkedin for my resume!
+
+Programming Languages: C, C++, Python, SQL
+Technologies Used: Jira, Figma, Confluence
 
 <!--
 **kyhjonathan/kyhjonathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
