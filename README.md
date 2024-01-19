@@ -7,7 +7,7 @@ I am looking for an internship!
 
 📫 Do contact me on Linkedin for my resume!
 
-⚡ Programming Languages: C, C++, Python, SQL
+⚡ Programming Languages: C, C++, Python, Java, SQL
 
 Technologies Used: Jira, Figma, Confluence
 
