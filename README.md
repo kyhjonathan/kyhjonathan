@@ -9,7 +9,7 @@ I am looking for an internship!
 
 ⚡ Programming Languages: C, C++, Python, Java, SQL
 
-Technologies Used: Jira, Figma, Confluence
+Technologies Used: Git, Jira, Figma, Confluence
 
 <!--
 **kyhjonathan/kyhjonathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
